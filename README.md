@@ -1,8 +1,8 @@
 # Oracle Pluggable Database Assignment II
 
 ## Student Information
-- **Name:** kwizera prince
-- **Student ID:** 2842
+- **Name:** Prince
+- **Student ID:** 28426
 - **Course:** Database Development with PL/SQL (INSY 8311)
 - **Instructor:** Eric Maniraguha
 - **Date:** February 2026
@@ -11,22 +11,22 @@
 
 ## Oracle Environment
 - **Database Version:** Oracle Database 21c
-- **Operating System:** Windows 10/11 64-bit
+- **Operating System:** Windows 11 64-bit
 - **CDB Name:** ORCL
 - **Tool Used:** SQL*Plus
 
 ---
 
 ## Task 1: Create Personal Pluggable Database
-- **PDB Name:** kp_pdb_28426
-- **Username Created:** price_plsqlauca_28426
+- **PDB Name:**  kp_pdb_28426
+- **Username Created:** prince_plsqlauca_28426
 - Created the PDB successfully from CDB$ROOT
 - Opened the PDB and created a user with CONNECT, RESOURCE, DBA privileges
 
 ### Screenshots
-![PDB Created](screenshots/task1_pdb_created.jpeg)
-![PDB Opened](screenshots/task1_pdb_open.jpeg)
-![User Created](screenshots/task1_user_created.jpeg)
+![PDB Created](task1_pdb_create.jpeg)
+![PDB Opened](task1_pdb_open.jpeg)
+![User Created](task1_pdb_user_created.jpeg)
 
 ---
 
@@ -38,8 +38,8 @@
 - Confirmed deletion by querying DBA_PDBS again
 
 ### Screenshots
-![Temp PDB Created](screenshots/task2_temp_pdb_created.jpeg)
-![Temp PDB Deleted](screenshots/task2_temp_pdb_deleted.jpeg)
+![Temp PDB Created](task2_temp_pdb_created.jpeg)
+![Temp PDB Deleted](task2_temp_pdb_deleted.jpeg)
 
 ---
 
@@ -48,20 +48,19 @@
 - Dashboard shows Oracle environment and completed PDB tasks
 
 ### Screenshots
-![OEM Dashboard](screenshots/task3_oem_dashboard.jpeg)
+![OEM Dashboard](task3_oem_dashboard.jpeg)
 
 ---
 
 ## Task 4: Documentation
 - All tasks documented in this README
-- Screenshots uploaded in the screenshots/ folder
+- All screenshots uploaded in this repository
 - Repository is public
 
 ---
 
 ## Challenges Faced
-- Write any problems you had and how you solved them here
-- Or write "No major challenges encountered"
+No major challenges encountered
 
 ---
 
@@ -71,8 +70,5 @@ I did not copy commands, screenshots, or solutions from any classmate.
 I did not use AI tools to generate my commands or solutions.
 All tasks were performed and documented by me individually.
 
-**Name:** kwizera prince
+**Name:** Prince
 **Date:** February 2026
-```
-
-rusername/oracle_pdb_ass_II_2024055_john
